@@ -1,4 +1,4 @@
-AAA
+BAAA
 # Weryfikacja Osoby Prywatnej
 
 Opis: Usługa odpowiedzialna za wstępną weryfikację danych wnioskodawcy. 
