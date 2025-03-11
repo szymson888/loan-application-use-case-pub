@@ -6,6 +6,7 @@ Repozytorium jest utrzymywane przez firmę AGIDOT sp. z o.o. https://agidot.eu/
 ## Główne Założenia Systemu
 System umożliwia kompleksową obsługę wniosku o udzielenie pożyczki, dzieląc proces na kilka kluczowych etapów, z których każdy jest realizowany przez dedykowany serwis. Podejście to pozwala na łatwe skalowanie, modyfikację poszczególnych elementów oraz lepsze zrozumienie zasad działania architektury opartej na serwisach.
 
+
 ## Kluczowe Serwisy
 ### Weryfikacja Osoby Prywatnej
 
